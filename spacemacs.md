@@ -16,6 +16,7 @@ SPC s s          - find in buffer
 ctrl+c ctrl+o    - open occur
 SPC m w          - enable write in buffer
   do text modifications
-, c              - confirm
+, c              - confirm (does it to copy)
 , k              - abort
+:w               - to save
 ```
